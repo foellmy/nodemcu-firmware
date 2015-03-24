@@ -2,9 +2,9 @@
 version 0.9.5
 
 [![Join the chat at https://gitter.im/nodemcu/nodemcu-firmware](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nodemcu/nodemcu-firmware?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Build Status](https://travis-ci.org/nodemcu/nodemcu-firmware.svg)](https://travis-ci.org/nodemcu/nodemcu-firmware)  [![Download](https://img.shields.io/badge/download-~400k-orange.svg)](https://github.com/nodemcu/nodemcu-firmware/releases/latest)
+[![Build Status](https://travis-ci.org/foellmy/nodemcu-firmware.svg)](https://travis-ci.org/foellmy/nodemcu-firmware)  [![Download](https://img.shields.io/badge/download-~400k-orange.svg)](https://github.com/foellmy/nodemcu-firmware/releases/latest)
 
-###A lua based firmware for wifi-soc esp8266
+###A lua based firmware for wifi-soc esp8266   Branch 23.03.15 from NodeMCU main branch
 Build on [ESP8266 sdk 0.9.5](http://bbs.espressif.com/viewtopic.php?f=5&t=154)<br />
 Lua core based on [eLua project](http://www.eluaproject.net/)<br />
 cjson based on [lua-cjson](https://github.com/mpx/lua-cjson)<br />
@@ -12,8 +12,8 @@ File system based on [spiffs](https://github.com/pellepl/spiffs)<br />
 Open source development kit for NodeMCU [nodemcu-devkit](https://github.com/nodemcu/nodemcu-devkit)<br />
 Flash tool for NodeMCU [nodemcu-flasher](https://github.com/nodemcu/nodemcu-flasher)<br />
 
-wiki: [NodeMCU wiki](https://github.com/nodemcu/nodemcu-firmware/wiki)<br />
-api: [NodeMCU api](https://github.com/nodemcu/nodemcu-firmware/wiki/nodemcu_api_en)<br />
+wiki: [NodeMCU wiki](https://github.com/foellmy/nodemcu-firmware/wiki)<br />
+api: [NodeMCU api](https://github.com/foellmy/nodemcu-firmware/wiki/nodemcu_api_en)<br />
 home: [nodemcu.com](http://www.nodemcu.com)<br />
 bbs: [Chinese bbs](http://bbs.nodemcu.com)<br />
 docs: [NodeMCU docs](http://www.nodemcu.com/docs/)<br />
